@@ -6,7 +6,7 @@ from kivy.uix.image import Image
 from kivy.clock import Clock
 import cv2
 from numpy import size
-import webbrowser
+#import webbrowser
 import subprocess
 
 
