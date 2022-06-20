@@ -6,7 +6,7 @@ from kivy.uix.image import Image
 from kivy.clock import Clock
 import cv2
 from numpy import size
-#import webbrowser
+import webbrowser
 import subprocess
 
 
@@ -55,6 +55,7 @@ class Qrcodedetector(MDApp):
         qrdata = str(self.data)
         return qrdata
 
+#main
 
 if __name__ == '__main__':
     Qrcodedetector().run()
