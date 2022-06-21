@@ -179,6 +179,7 @@ class Transaction:
         imgon = self.canvas.create_image(0, 0, anchor=NW, image=self.img)
         # self.qr_code.config(image=self.im)
 
+        
 
 root = Tk()
 obj = Transaction(root)
