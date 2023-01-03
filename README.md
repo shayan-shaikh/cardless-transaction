@@ -96,27 +96,20 @@ Contents                                                                        
 
 
 
-CHAPTER 1                                                                    
-                                       INTRODUCTION
+### INTRODUCTION
 Today the regional economies, societies, cultures and educations are integrated through a globe-spanning network of communication and trade. Today’s most of business dealings (order receive, delivery confirmation, transaction and business communication) are done on internet. Rapid development of banking technology, Banks provide facilities to their client to transaction their money from an account through a security system using internet. This system is known as electronic transaction. Notwithstanding, we have lived in a world where people no longer want to encounter long queues for any reasons and this has led to the increasing services being rendered by banks to further improve the convenience of banking through the means of electronic banking. The growing rate of the popularity of electronic transaction has increased day by day. Now-a-days most of the people make their banking activities such as cash withdrawal, money transfer, paying phone and electricity bills, online purchase beyond official hours without physical interaction with bank staff, using internet. Banks have fascinated their customers to carry out banking transactions like deposits, transfers, balance enquiries, mini statement, withdrawal and fast cash etc. in various ways. 
 There are two ways a customer can perform their banking activities. First one, physically, by interacting with banking staff and second one is electronic transaction (ATM transaction, online transaction and E-coin). For the first case bank staff manually authenticates a user based on check book, customer signature and photo. In the case of electronic transaction bank follows conventional method where authenticate a user based on user id and PIN (personal identification number). But in this case security and accessibility are the major issues regarding electronic transaction. 
 For these case scenarios wherein, a user doesn’t have a physical card present and is required to pay for a service, we have devised a model where the user can obtain easy cash withdrawal from any nearby ATM or any retailer by just presenting with a QR code which can be scanned by the scanner present with the retailer. This model allows full autonomy to the user to obtain cash by easy access method without the use of any physical card. Also, by allowing full control to the user, the model allows the added advantage of transparency as well as increased security. This method allows the discouragement of the use of phishing methods in normal ATM kiosks as well as any malpractice by any retailer in cash handling.
 
-CHAPTER 2                                                                    
-                                       OBJECTIVE & SCOPE
-2.1 Objective 
+### OBJECTIVE & SCOPE
+##### 2.1 Objective 
 	The main objective of this model is to provide more rapid accessibility to a user by providing a more rapid and efficient way of obtaining cash without the need of an actual physical card to be present on the person. This aims to reduce the hassle of carrying a physical card at all times as well as the security risk of online transactions by providing an alternative method involving cash for the traditional users. Another objective is to introduce more strengthened layers of security in this model to further bolster its reliability as well as reduce the risks of any malpractice.
-2.2 Scope
+##### 2.2 Scope
 	The model is helpful for any domain with respect to transactions particularly the retail sector of the society where the need of cash is paramount for any traditional user. Furthermore, the sectors of rapid payment through e-transactions can benefit from this domain as well by implementation of this model for e-payment.
 	Nevertheless, with some further bolstering with additional modules like voice authentication, SOS generation and many other services, the model can prove to be a game changing method for any type of transaction anywhere.
 
 
-
-
-
-CHAPTER 3
-
-                                 THEORETICAL BACKGROUND
+### THEORETICAL BACKGROUND
 
 Problems in existing system:
 •	Service fees:
@@ -150,43 +143,11 @@ Solution to these problems:
 •	Business costs are low because no additional hosting is required by the business.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-CHAPTER 4
-
-                                    PROBLEM DEFINITION
+### PROBLEM DEFINITION
 The problem is the requirement of physical cards or any offline transaction as well as the requirement of hard cash. Here the model explores the elimination of the physical layer of cards whilst increasing the accessibility in a cash transaction. Also the model implementation can be useful for any online transaction as well.
 
 
-
-
-
-
-
-
-
-
-
-
-
-CHAPTER 5
-
-TECHNICAL, ECONOMICAL & OPERATIONAL FEASIBILITY
+### TECHNICAL, ECONOMICAL & OPERATIONAL FEASIBILITY
 
 5.1 Types of Feasibility:
 1.	Financial feasibility:
@@ -214,9 +175,7 @@ Operational Feasibility
 Cost-Benefit Analysis
 		The cost incurred by our system includes only the software cost and cost of the device needed to run the project.
  
-CHAPTER 6
-
-SYSTEM ANALYSIS & PLANNING
+### SYSTEM ANALYSIS & PLANNING
 6.1 Analysis Model
 	This document plays a vital role in the development of life cycle (SDLC) as it describes the complete requirement of the system.  It means for use by developers and will be the basic during testing phase.  Any changes made to the requirements in the future will have to go through formal change approval process.
 	SPIRAL MODEL was defined by Barry Boehm in his 1988 article, “A spiral Model of Software Development and Enhancement.  This model was not the first model to discuss iterative development, but it was the first model to explain why the iteration models.
@@ -251,15 +210,7 @@ The following diagram shows how a spiral model act like:
 	The operational or generic user interface helps the users upon the system in transactions through the existing data and required services. The operational user interface also helps the ordinary users in managing their own information helps the ordinary users in managing their own information in a customized manner as per the assisted flexibilities.
 
 
-
-
-
-
-
-
-CHAPTER 7
-
-SYSTEM PLANNING (PERT CHART)
+### SYSTEM PLANNING (PERT CHART)
 
 	Perform and evaluate feasibility studies like cost-benefit analysis, technical feasibility, time feasibility and operational feasibility for the project. Project Scheduling should be made using PERT charts.
 	Feasibility study is carried out to decide whether the proposed system is feasible for the company. The feasibility study is to serve as a decision document it must answer three key questions:
@@ -275,9 +226,7 @@ Economical Feasibility is the most frequently used method for evaluating the eff
 
 
 
-CHAPTER 8
-
-METHODOLOGY ADOPTED, SYSTEM IMPLEMENTATION & DETAILS of HARDWARE & SOFTWARE USED
+### METHODOLOGY ADOPTED, SYSTEM IMPLEMENTATION & DETAILS of HARDWARE & SOFTWARE USED
 
 7.1 Methodology adopted and System implementation:
 •	Apache tomcat is used as a web server to host the application.
@@ -308,9 +257,8 @@ Web Server: 				 XAMPP server
                         Web Browser:	                         Google Chrome/ Mozilla Firefox
 
 
-CHAPTER 9
 
-DETAILED LIFE CYCLE OF PROJECT
+### DETAILED LIFE CYCLE OF PROJECT
 
           	We have used Waterfall Model as Software Engineering life Cycle Process. It is the simplest; oldest and most widely used process model for software development. This model acquires its name from the fact that classic software life cycle is represented as a sequence of descending steps.
  
@@ -332,64 +280,7 @@ Fig 8.1 : Waterfall Model
 	White Box Testing
 	Black Box Testing
 
-CHAPTER 10
-
-INPUT and OUTPUT SCREEN DESIGN (SNAPSHOTS)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-CHAPTER 11 
-
-SOURCE CODE
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-CONCLUSION
-In the proposed model QR code generation and scanning have been used to complete a transaction without the hassle of carrying physical cards. QR code is used to facilitate a hassle-free transaction for customer. This model can provide separate facilities to customer based on their category. With this model there is no problem for banks to be acted as member of payment network like VISA, MasterCard etc. It is also shown by analysing the model that banks can be benefitted in business because extra infrastructure cost is not needed.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-FUTURE ENHANCEMENTS
+#### FUTURE ENHANCEMENTS
 •	Introduction of SSL encryption layer in transaction to ensure authentication as well as increased security.
 •	Introduction of voice recognition, biometric authentication as well as SOS generation for enhanced security of the system.
 •	Implementation of the system on large scale to reduce the initial cost of setup and general accessibility.
