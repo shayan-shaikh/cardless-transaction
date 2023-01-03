@@ -28,7 +28,7 @@ HKBK COLLEGE of ENGINEERING
                                        22/1, Nagawara, Arabic College Post, Bangalore-45, Karnataka
 Email: info@hkbk.edu.in URL: www.hkbk.edu.in
  
-ACKNOWLEDGEMENT
+### ACKNOWLEDGEMENT
 
 
 We would like to express our regards and acknowledgement to all who helped us in completing this project successfully.
@@ -49,7 +49,7 @@ SYED TAJAMUL SHAH	                 1HK19CS167
 
 
 
-ABSTRACT
+### ABSTRACT
 
 In the era of internet, most of the people all over the world complete their transaction on internet via payment apps and websites. However, there is still a vast number of people who complete their day-to-day transactions through physical cards. Though the user of electronic transaction or E-money transaction system increase rapidly but the majority of people are concerned about the security of this system. The growth in online transactions has resulted in a greater demand for fast and accurate user identification and authentication. There is a glaring problem of accessibility in such cases wherein the user doesn’t have a physical card present with him/her. For such cases and scenarios where the need for physical cards is a hassle posing for a user, we have designed a model that would reduce the altogether need of such scenarios as well as increasing the accessibility by increasing the reliance and pacing of a transaction.
 
@@ -74,7 +74,7 @@ In the era of internet, most of the people all over the world complete their tra
 
 
 
-CONTENTS
+### CONTENTS
 
 
 
